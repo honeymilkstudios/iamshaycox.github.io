@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Chango&family=Roboto:wght@300&display=swap" rel="stylesheet">
     <style>
         body{
-            background-image: url("https://imgur.com/naAyL2X");
+            background-image: ![404 page2](https://user-images.githubusercontent.com/94929988/143146529-8a040c30-b945-4f56-8121-e8c9da260a89.png);
             background-size: cover;
             font-family: 'Roboto', 'sans-serif';
         }
@@ -41,3 +41,4 @@
     
 </body>
 </html>
+
