@@ -31,10 +31,10 @@
     <main>
         <h4 class="header404">404</h4>
         <div class="content-404">
-            Uh-oh! We couldn't find the page you are looking for.
+            404
         </div>
         <p>
-            <a href="/">Check our home page</a>
+            
         </p>
     </main>
     
