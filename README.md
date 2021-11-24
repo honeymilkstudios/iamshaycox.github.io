@@ -40,25 +40,10 @@
     
 </body>
 </html>
-
-<html>
-<head>
-<style>
-<html>
-<head>
 <style>
 body {
   background-image: url('https://user-images.githubusercontent.com/94929988/143148879-736a3bbf-5bf9-4cd1-ae60-32daf90f9002.png');
 }
-</style>
-</head>
-<body>
-
-<h2>Background Image</h2>
-
-<p>By default, the background image will repeat itself if it is smaller than the element where it is specified, in this case the body element.</p>
-
-</body>    
 </style>
 </head>
 <body>
