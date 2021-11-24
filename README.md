@@ -35,10 +35,7 @@
         <p>
             
         </p>
-    </main>
     
-</body>
-</html>
 <style>
 body {
   background-image: url('https://user-images.githubusercontent.com/94929988/143149583-504af00c-bc81-4a33-b4a6-20f09c4039fe.png');
