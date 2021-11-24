@@ -31,7 +31,7 @@
     <main>
         <h4 class="header404">404</h4>
         <div class="content-404">
-            404
+           
         </div>
         <p>
             
