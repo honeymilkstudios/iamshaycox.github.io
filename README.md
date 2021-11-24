@@ -44,10 +44,7 @@
 <html>
 <head>
 <style>
-body {
-  background-image: url("(https://user-images.githubusercontent.com/94929988/143148546-b415d03a-92b1-4431-9cf1-e85472dfcc56.png)
-");
-}
+<div style="background-image: url('https://user-images.githubusercontent.com/94929988/143148879-736a3bbf-5bf9-4cd1-ae60-32daf90f9002.png');">
 </style>
 </head>
 <body>
@@ -58,4 +55,5 @@ body {
 
 </body>
 </html>
+
 
