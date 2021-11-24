@@ -20,7 +20,7 @@
         }
         .header404{
             font-family: 'Chango', cursive;
-            font-size: 148px;
+            font-size: 500px;
         }
         .content404{
             text-align: center;
@@ -32,7 +32,6 @@
         <h4 class="header404">404</h4>
         <div class="content-404">
            
-        </div>
         <p>
             
         </p>
@@ -42,7 +41,7 @@
 </html>
 <style>
 body {
-  background-image: url('https://user-images.githubusercontent.com/94929988/143148879-736a3bbf-5bf9-4cd1-ae60-32daf90f9002.png');
+  background-image: url('https://user-images.githubusercontent.com/94929988/143149363-70a4905f-d49e-4745-ba8a-78a928ac8b9f.png');
 }
 </style>
 </head>
