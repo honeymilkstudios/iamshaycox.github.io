@@ -40,7 +40,7 @@
 body {
   background-image: url('https://user-images.githubusercontent.com/94929988/143150163-d497b444-094c-4ae9-995f-8e60f11cd292.png');
   background-repeat: no-repeat;
-  background-attachment: fixed; 
+  background-attachment: unfixed; 
   background-size: 100% 100%;
 }
 </style>
