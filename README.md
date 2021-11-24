@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Chango&family=Roboto:wght@300&display=swap" rel="stylesheet">
     <style>
         body{
-            background-image: !;
+            background-image: ![404 page2](https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png);
             background-size: cover;
             font-family: 'Roboto', 'sans-serif';
         }
@@ -41,4 +41,4 @@
 </body>
 </html>
 
-![404 page2](https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png)
+
