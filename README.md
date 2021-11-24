@@ -46,16 +46,7 @@ body {
 </style>
 
 <body>
- main{
-            display: flex;
-            height: 100vh;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-        }
-        .header404{
-            font-family: 'Chango', cursive;
-            font-size: 50o0px;
+ 
 <h1>Hello Honey!</h1>
 
 <p>Whoops! Not sure what you were looking for.</p>
