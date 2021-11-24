@@ -1,4 +1,3 @@
-[404 page2](https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -26,10 +25,6 @@
         .content404{
             text-align: center;
         }
-        
-        body {
-  background-image: url("(https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png)");
-}
     </style>
 </head>
 <body>
@@ -46,4 +41,21 @@
 </body>
 </html>
 
+<html>
+<head>
+<style>
+body {
+  background-image: url("(https://user-images.githubusercontent.com/94929988/143148546-b415d03a-92b1-4431-9cf1-e85472dfcc56.png)
+");
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+<p>This page has an image as the background!</p>
+
+</body>
+</html>
 
