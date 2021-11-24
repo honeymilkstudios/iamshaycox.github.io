@@ -44,7 +44,7 @@ body {
   background-image: url('https://user-images.githubusercontent.com/94929988/143149363-70a4905f-d49e-4745-ba8a-78a928ac8b9f.png');
 }
 </style>
-</head>
+
 <body>
 
 <h1>Hello Honey!</h1>
@@ -52,6 +52,6 @@ body {
 <p>Whoops! Not sure what you were looking for.</p>
 
 </body>
-</html>
+
 
 
