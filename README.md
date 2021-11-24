@@ -54,7 +54,7 @@ body {
 
 <h1>Hello World!</h1>
 
-<p>This page has an image as the background!</p>
+<p>Whoops! Not sure what you were looking for.</p>
 
 </body>
 </html>
