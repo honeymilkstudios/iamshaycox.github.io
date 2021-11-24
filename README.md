@@ -13,14 +13,14 @@
         }
         main{
             display: flex;
-            height: 500vh;
+            height: 100vh;
             justify-content: center;
             align-items: center;
             flex-direction: column;
         }
         .header404{
             font-family: 'Chango', cursive;
-            font-size: 500px;
+            font-size: 50o0px;
         }
         .content404{
             text-align: center;
@@ -35,10 +35,13 @@
         <p>
             
         </p>
-    
+   
 <style>
 body {
   background-image: url('https://user-images.githubusercontent.com/94929988/143150163-d497b444-094c-4ae9-995f-8e60f11cd292.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
 }
 </style>
 
