@@ -1,3 +1,4 @@
+[404 page2](https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Chango&family=Roboto:wght@300&display=swap" rel="stylesheet">
     <style>
         body{
-            background-image: ![404 page2](https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png);
+            background-image: ;
             background-size: cover;
             font-family: 'Roboto', 'sans-serif';
         }
@@ -25,6 +26,10 @@
         .content404{
             text-align: center;
         }
+        
+        body {
+  background-image: url("(https://user-images.githubusercontent.com/94929988/143146722-ed6f5979-26d4-4ae0-a2fb-956e6fe11522.png)");
+}
     </style>
 </head>
 <body>
