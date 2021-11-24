@@ -20,7 +20,7 @@
         }
         .header404{
             font-family: 'Chango', cursive;
-            font-size: 48px;
+            font-size: 148px;
         }
         .content404{
             text-align: center;
