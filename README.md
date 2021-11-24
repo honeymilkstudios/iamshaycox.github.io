@@ -55,6 +55,33 @@ body {
 <html>
 
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Chango&family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <style>
+        body{
+            background-image: ![studios]('https://user-images.githubusercontent.com/94929988/143151182-f0171a5c-1c22-4fe5-8264-c3d450c30c35.png');
+            background-size: cover;
+            font-family: 'Roboto', 'sans-serif';
+        }
+        main{
+            display: flex;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .header404{
+            font-family: 'Chango', cursive;
+            font-size: 50o0px;
+        }
+        .content404{
+            text-align: center;
+        }
+    </style>
+</head>
 
 
-![studios](https://user-images.githubusercontent.com/94929988/143151182-f0171a5c-1c22-4fe5-8264-c3d450c30c35.png)
