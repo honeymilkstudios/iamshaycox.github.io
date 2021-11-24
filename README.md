@@ -41,7 +41,7 @@
 </html>
 <style>
 body {
-  background-image: url('https://user-images.githubusercontent.com/94929988/143149363-70a4905f-d49e-4745-ba8a-78a928ac8b9f.png');
+  background-image: url('https://user-images.githubusercontent.com/94929988/143149583-504af00c-bc81-4a33-b4a6-20f09c4039fe.png');
 }
 </style>
 
@@ -52,6 +52,7 @@ body {
 <p>Whoops! Not sure what you were looking for.</p>
 
 </body>
+<html>
 
 
 
