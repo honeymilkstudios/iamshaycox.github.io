@@ -89,7 +89,7 @@ body {
     <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2></h2>
 <img src="![studios]('https://user-images.githubusercontent.com/94929988/143158842-541a9e8a-b228-4c9b-aecc-dbfe536f36d1.png)
 g" alt="logo" width="500" height="333">
 
