@@ -85,10 +85,15 @@ body {
 </head>
 
 <body>
-        <h4 class="header404">![studios]('https://user-images.githubusercontent.com/94929988/143158842-541a9e8a-b228-4c9b-aecc-dbfe536f36d1.png)
-</h4>
-        <div class="content-404">
-           
-        <p>
-            
-        </p>
+
+    <html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="![studios]('https://user-images.githubusercontent.com/94929988/143158842-541a9e8a-b228-4c9b-aecc-dbfe536f36d1.png)
+g" alt="logo" width="500" height="333">
+
+</body>
+</html>
+
+
